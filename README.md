@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Daffa Chandra Himawan! 👋
 
-<!--
-**dafun-code/dafun-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate university student at Universitas Muhammadiyah Surakarta and a beginner web developer from Indonesia.  
+Currently focusing on learning and growing in the field of web development.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning web development (HTML, CSS, and more)
+- ⚡ Always excited to learn new technologies
+- 🎯 Focused on improving technical skills and creativity
+- 📚 Hobbies: Reading, video editing, sports, and exploring tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Web Development Basics (HTML & CSS)
+- Public Speaking
+- Time Management
+- English Communication
+
+## Let's Connect!
+- 📧 Email: daffachandra983@gmail.com
+- 📱 WhatsApp: 0853-4832-7447
+- 📍 Surakarta, Central Java, Indonesia
+
+Thanks for visiting my profile!
